@@ -16,6 +16,10 @@ git clone https://github.com/BaiYu96/u1pr.git
 * git commit -m "你的提交信息"
 * git push
 
+提交PR
+
+当你的PR被我成功合并之后，你会在下面参与PR的小伙伴里面看到你的名字。
+
 ## 参与PR的小伙伴
 
 <div align=center style="margin-top: 30px;">

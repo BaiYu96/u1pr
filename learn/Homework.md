@@ -2,6 +2,8 @@
 
 * [baiyu](https://github.com/BaiYu96)
 
+* [minghuichou](https://github.com/minghuichou)
+
 * [彬彬](https://github.com/Everfighting)
 
 * [yy](https://github.com/BaiYu96/u1pr.git)
